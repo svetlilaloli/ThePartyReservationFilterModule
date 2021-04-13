@@ -1,0 +1,7 @@
+C:\Users\Sony Vaio\source\repos\FunctionalProgramming\ThePartyReservationFilterModule\bin\Debug\ThePartyReservationFilterModule.exe.config
+C:\Users\Sony Vaio\source\repos\FunctionalProgramming\ThePartyReservationFilterModule\bin\Debug\ThePartyReservationFilterModule.exe
+C:\Users\Sony Vaio\source\repos\FunctionalProgramming\ThePartyReservationFilterModule\bin\Debug\ThePartyReservationFilterModule.pdb
+C:\Users\Sony Vaio\source\repos\FunctionalProgramming\ThePartyReservationFilterModule\obj\Debug\ThePartyReservationFilterModule.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\source\repos\FunctionalProgramming\ThePartyReservationFilterModule\obj\Debug\ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\source\repos\FunctionalProgramming\ThePartyReservationFilterModule\obj\Debug\ThePartyReservationFilterModule.exe
+C:\Users\Sony Vaio\source\repos\FunctionalProgramming\ThePartyReservationFilterModule\obj\Debug\ThePartyReservationFilterModule.pdb
